@@ -5,9 +5,7 @@ function App() {
   return (
     // BEM convention 
     <div className="app">
-      <h1>hello world</h1>
-
-      <Header></Header> 
+      <Header/> 
 
       {/* App body */}
         {/* sidebar */}
