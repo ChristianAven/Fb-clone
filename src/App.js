@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './componets/Header/Header'
 import Sidebar from './componets/Sidebar/Sidebar'
+import Feed from './componets/Feed/Feed'; 
 
 function App() {
   return (
@@ -10,9 +11,8 @@ function App() {
 
       <div className="app__body">
         <Sidebar/>
-        {/* sidebar */}
-        {/* feed */}
-        {/* wigets */}
+        <Feed/>
+        {/* wigets */} 
       </div>
         
 
