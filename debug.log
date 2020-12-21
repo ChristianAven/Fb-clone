@@ -1,3 +1,4 @@
 [1219/010927.402:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
 [1219/010927.406:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Familia Avendaño\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\86621c3c-719f-4a32-adf0-00e260b55a2f: El sistema no puede encontrar la ruta especificada. (0x3)
 [1219/121517.451:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1220/204221.916:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
